@@ -1,0 +1,11 @@
+F:\Homework 2\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+F:\Homework 2\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+F:\Homework 2\WindowsApplication3\WindowsApplication3\bin\Debug\killallsbinchina.exe.config
+F:\Homework 2\WindowsApplication3\WindowsApplication3\bin\Debug\killallsbinchina.exe
+F:\Homework 2\WindowsApplication3\WindowsApplication3\bin\Debug\killallsbinchina.pdb
+F:\Homework 2\WindowsApplication3\WindowsApplication3\bin\Debug\killallsbinchina.xml
+F:\Homework 2\WindowsApplication3\WindowsApplication3\obj\Debug\killallsbinchina.Form1.resources
+F:\Homework 2\WindowsApplication3\WindowsApplication3\obj\Debug\killallsbinchina.Resources.resources
+F:\Homework 2\WindowsApplication3\WindowsApplication3\obj\Debug\killallsbinchina.exe
+F:\Homework 2\WindowsApplication3\WindowsApplication3\obj\Debug\killallsbinchina.xml
+F:\Homework 2\WindowsApplication3\WindowsApplication3\obj\Debug\killallsbinchina.pdb
